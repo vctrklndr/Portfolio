@@ -4,7 +4,7 @@ import Blob from "./Blob";
 function Header() {
   const hashTags = {
     fontSize: ".8rem",
-    color: "black"
+    color: "grey"
   };
   return (
     <header>
