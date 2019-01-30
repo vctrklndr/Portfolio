@@ -1,0 +1,71 @@
+.blob-container {
+  width: 290px;
+  height: 235px;
+  position: absolute;
+  z-index: -2;
+  top: 0;
+}
+
+#blob,
+#blob circle {
+  fill: #ffd200;
+
+}
+
+#blob-one {
+  animation: from0to360 2s linear infinite;
+  cx: 125;
+  cy: 95;
+  r: 50;
+  transform-origin: 105px 95px;
+}
+
+#blob-two {
+  animation: from0to360 3s linear infinite;
+  cx: 130;
+  cy: 105;
+  r: 75;
+  transform-origin: 165px 120px;
+}
+
+#blob-three {
+  animation: from0to360 4s linear infinite;
+  cx: 145;
+  cy: 100;
+  r: 60;
+  transform-origin: 160px 135px;
+}
+
+#blob-four {
+  animation: from360to0 3.5s linear infinite;
+  cx: 165;
+  cy: 120;
+  r: 70;
+  transform-origin: 140px 125px;
+}
+
+#blob-five {
+  animation: from0to360 3.5s linear infinite;
+  cx: 165;
+  cy: 120;
+  r: 70;
+  transform-origin: 140px 125px;
+}
+
+#blob-six {
+  animation: from0to360 2.5s linear infinite;
+  cx: 85;
+  cy: 120;
+  r: 30;
+  transform-origin: 65px 120px;
+}
+
+@keyframes from0to360 {
+  from{transform:rotate(0);}
+  to{transform:rotate(360deg);}
+}
+
+@keyframes from360to0 {
+  from{transform:rotate(360deg);}
+  to{transform:rotate(0deg);}
+}
