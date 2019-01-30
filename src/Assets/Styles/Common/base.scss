@@ -7,6 +7,19 @@ body {
   letter-spacing: .1rem;
 }
 
+strong {
+  font-family: 'GT Pressura Mono Bold';
+  letter-spacing: .05rem;
+  text-transform: uppercase;
+}
+
 .App {
-  padding: 2vw;
+  max-width: 1020px;
+  margin: 0 auto;
+  padding: 0 4vw;
+}
+
+::selection {
+  background-color: $pink;
+  color: #272727;
 }

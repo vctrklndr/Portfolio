@@ -1,10 +1,14 @@
 //Common
-@import "Common/fonts.scss";
-@import "Common/variables.scss";
-@import "Common/base.scss";
+@import "Common/fonts";
+@import "Common/variables";
+@import "Common/base";
 
 //Atoms
-@import "Components/Atoms/blob.scss";
-@import "Components/Atoms/heading.scss";
+@import "Components/Atoms/blob";
+@import "Components/Atoms/heading";
 
-@import "Utils/margin.scss";
+// Molecules
+@import "Components/Molecules/portfolio";
+
+@import "Utils/margin";
+@import "Utils/text";

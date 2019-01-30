@@ -1,8 +1,8 @@
 import React from 'react';
 
-function Blob(){
+function Blob(props){
   return(
-    <div className="blob-container">
+    <div className={ props.wabbalabba }>
       <svg id="blob" width="290" height="235" xmlns="http://www.w3.org/2000/svg" filter="url(#goo)">
         <defs>
           <filter id="goo">

@@ -1,15 +1,17 @@
 .blob-container {
   width: 290px;
   height: 235px;
+}
+
+.blob-container--top {
   position: absolute;
-  z-index: -2;
+  z-index: -1;
   top: 0;
 }
 
 #blob,
 #blob circle {
-  fill: #ffd200;
-
+  fill: $pink;
 }
 
 #blob-one {
