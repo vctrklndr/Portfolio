@@ -5,7 +5,7 @@ import Blobber from "../Assets/Images/blob-1.svg";
 function Main() {
   const blobStyle = {
     marginTop: "-200px",
-    marginLeft: "0",
+    marginLeft: "150px",
     position: "relative",
     zIndex: "-3",
     maxWidth: "450px",
