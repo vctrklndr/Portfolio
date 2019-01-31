@@ -1,0 +1,21 @@
+.Link {
+  text-decoration: none;
+  &--underline {
+    color: #808080;
+    display: inline-block;
+    &:hover {
+      color: #d3d3d3;
+      transition: color 250ms ease-in-out;
+    }
+    &:after {
+      display: block;
+      content: '';
+      border-bottom: 1px #d3d3d3 solid;  
+      transform: scaleX(0);  
+      transition: transform 250ms ease-in-out;
+    }
+    &:hover:after {
+      transform: scaleX(1);
+    }
+  }
+}
