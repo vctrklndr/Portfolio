@@ -1,19 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "1e679eef757794b967d96004680f4052",
-    "url": "/React-Portfolio/static/media/mobergs_bistro.1e679eef.png"
+    "revision": "cc2bd51e0e5b73be07a046e54205ee6b",
+    "url": "/React-Portfolio/static/media/ichores.cc2bd51e.png"
   },
   {
-    "revision": "2855614f59711c3b74b1",
-    "url": "/React-Portfolio/static/css/main.fb3cc0b5.chunk.css"
+    "revision": "9978e7ab8627bf568a51",
+    "url": "/React-Portfolio/static/css/main.68f9e072.chunk.css"
   },
   {
-    "revision": "12515d38c4eb5e955f9c",
-    "url": "/React-Portfolio/static/js/1.12515d38.chunk.js"
+    "revision": "98d7e95f98f11b6bae51",
+    "url": "/React-Portfolio/static/js/1.98d7e95f.chunk.js"
   },
   {
     "revision": "804d233a10add83efa8d",
     "url": "/React-Portfolio/static/js/runtime~main.804d233a.js"
+  },
+  {
+    "revision": "85ef689c092104ebe8e2632484af8b23",
+    "url": "/React-Portfolio/static/media/blob-fallback.85ef689c.svg"
   },
   {
     "revision": "a4be5ea1fdb869838ce4e4c5226acaa2",
@@ -24,12 +28,12 @@ self.__precacheManifest = [
     "url": "/React-Portfolio/static/media/dashboard.0b022f03.jpg"
   },
   {
-    "revision": "cc2bd51e0e5b73be07a046e54205ee6b",
-    "url": "/React-Portfolio/static/media/ichores.cc2bd51e.png"
+    "revision": "9978e7ab8627bf568a51",
+    "url": "/React-Portfolio/static/js/main.9978e7ab.chunk.js"
   },
   {
-    "revision": "2855614f59711c3b74b1",
-    "url": "/React-Portfolio/static/js/main.2855614f.chunk.js"
+    "revision": "1e679eef757794b967d96004680f4052",
+    "url": "/React-Portfolio/static/media/mobergs_bistro.1e679eef.png"
   },
   {
     "revision": "ced89b22c619411c52e7e1cc8c03f8b5",
@@ -52,7 +56,7 @@ self.__precacheManifest = [
     "url": "/React-Portfolio/static/media/GT-Pressura-Mono-Light.c7f41f86.ttf"
   },
   {
-    "revision": "4fcebad98bc1ed10f3985cb068497402",
+    "revision": "208f80e11de75bec02821fd757624466",
     "url": "/React-Portfolio/index.html"
   }
 ];
