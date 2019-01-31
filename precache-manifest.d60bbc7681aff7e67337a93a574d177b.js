@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/React-Portfolio/static/media/Aften-Screen-Bold.47bc204d.ttf"
   },
   {
-    "revision": "c7f41f860339111eafbd2b6426de120d",
-    "url": "/React-Portfolio/static/media/GT-Pressura-Mono-Light.c7f41f86.ttf"
-  },
-  {
     "revision": "1bb66f782eef699ae78687c5ad00768a",
     "url": "/React-Portfolio/static/media/GT-Pressura-Mono-Bold.1bb66f78.ttf"
+  },
+  {
+    "revision": "c7f41f860339111eafbd2b6426de120d",
+    "url": "/React-Portfolio/static/media/GT-Pressura-Mono-Light.c7f41f86.ttf"
   },
   {
     "revision": "4fcebad98bc1ed10f3985cb068497402",
