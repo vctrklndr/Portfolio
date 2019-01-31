@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/React-Portfolio/static/media/ichores.cc2bd51e.png"
   },
   {
-    "revision": "9978e7ab8627bf568a51",
+    "revision": "196502b9dfb038089107",
     "url": "/React-Portfolio/static/css/main.68f9e072.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/React-Portfolio/static/media/dashboard.0b022f03.jpg"
   },
   {
-    "revision": "9978e7ab8627bf568a51",
-    "url": "/React-Portfolio/static/js/main.9978e7ab.chunk.js"
+    "revision": "196502b9dfb038089107",
+    "url": "/React-Portfolio/static/js/main.196502b9.chunk.js"
   },
   {
     "revision": "1e679eef757794b967d96004680f4052",
@@ -48,15 +48,15 @@ self.__precacheManifest = [
     "url": "/React-Portfolio/static/media/Aften-Screen-Bold.47bc204d.ttf"
   },
   {
-    "revision": "1bb66f782eef699ae78687c5ad00768a",
-    "url": "/React-Portfolio/static/media/GT-Pressura-Mono-Bold.1bb66f78.ttf"
-  },
-  {
     "revision": "c7f41f860339111eafbd2b6426de120d",
     "url": "/React-Portfolio/static/media/GT-Pressura-Mono-Light.c7f41f86.ttf"
   },
   {
-    "revision": "208f80e11de75bec02821fd757624466",
+    "revision": "1bb66f782eef699ae78687c5ad00768a",
+    "url": "/React-Portfolio/static/media/GT-Pressura-Mono-Bold.1bb66f78.ttf"
+  },
+  {
+    "revision": "2549722a294b2c1ca4135e92690ed380",
     "url": "/React-Portfolio/index.html"
   }
 ];

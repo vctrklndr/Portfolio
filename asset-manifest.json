@@ -1,7 +1,7 @@
 {
   "main.css": "/React-Portfolio/static/css/main.68f9e072.chunk.css",
-  "main.js": "/React-Portfolio/static/js/main.9978e7ab.chunk.js",
-  "main.js.map": "/React-Portfolio/static/js/main.9978e7ab.chunk.js.map",
+  "main.js": "/React-Portfolio/static/js/main.196502b9.chunk.js",
+  "main.js.map": "/React-Portfolio/static/js/main.196502b9.chunk.js.map",
   "static/js/1.98d7e95f.chunk.js": "/React-Portfolio/static/js/1.98d7e95f.chunk.js",
   "static/js/1.98d7e95f.chunk.js.map": "/React-Portfolio/static/js/1.98d7e95f.chunk.js.map",
   "runtime~main.js": "/React-Portfolio/static/js/runtime~main.804d233a.js",
@@ -12,10 +12,10 @@
   "static/media/mobergs_bistro.png": "/React-Portfolio/static/media/mobergs_bistro.1e679eef.png",
   "static/media/punk_beer.png": "/React-Portfolio/static/media/punk_beer.ced89b22.png",
   "static/media/blob-1.svg": "/React-Portfolio/static/media/blob-1.5cd02dc8.svg",
-  "static/media/app.scss": "/React-Portfolio/static/media/GT-Pressura-Mono-Light.c7f41f86.ttf",
+  "static/media/app.scss": "/React-Portfolio/static/media/GT-Pressura-Mono-Bold.1bb66f78.ttf",
   "static/media/music-1.png": "/React-Portfolio/static/media/music-1.a4be5ea1.png",
   "static/css/main.68f9e072.chunk.css.map": "/React-Portfolio/static/css/main.68f9e072.chunk.css.map",
   "index.html": "/React-Portfolio/index.html",
-  "precache-manifest.4ffd02fb03301e2ebacd36bc68577e1f.js": "/React-Portfolio/precache-manifest.4ffd02fb03301e2ebacd36bc68577e1f.js",
+  "precache-manifest.8a364a76ba8a620b7e66aa935edad268.js": "/React-Portfolio/precache-manifest.8a364a76ba8a620b7e66aa935edad268.js",
   "service-worker.js": "/React-Portfolio/service-worker.js"
 }
