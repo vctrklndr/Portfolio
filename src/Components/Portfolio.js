@@ -33,7 +33,7 @@ function Portfolio() {
         title="Ajax API"
         description="School assignment handling API in Ajax JS"
         hashtags="#html #css #sass #js #vanilla"
-        href="https://vctrklndr.github.io/github.io/JavaScript-AJAX/"
+        href="https://vctrklndr.github.io/JavaScript-AJAX/"
         hrefTitle="github.io/JavaScript-AJAX/"
       />
       <Block 

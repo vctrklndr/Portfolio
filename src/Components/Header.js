@@ -4,13 +4,17 @@ import Blob from "./Blob";
 
 class Header extends React.Component {
   renderBlobs = () => {
-    const CHROME = (navigator.userAgent.toString().toLowerCase().indexOf("chrome") != -1);
-    if(!CHROME){
-      return <Blob />
+    const CHROME =
+      navigator.userAgent
+        .toString()
+        .toLowerCase()
+        .indexOf("chrome") != -1;
+    if (!CHROME) {
+      return <Blob />;
     } else {
-      return <BlobAnimation />
+      return <BlobAnimation />;
     }
-  }
+  };
   render() {
     return (
       <header>
@@ -22,9 +26,7 @@ class Header extends React.Component {
             #html #css #sass #less #js #git
           </span>
         </p>
-        <div className="Blob-container">
-          {this.renderBlobs()}
-        </div>
+        <div className="Blob-container">{this.renderBlobs()}</div>
       </header>
     );
   }

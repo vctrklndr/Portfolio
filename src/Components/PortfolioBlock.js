@@ -3,7 +3,13 @@ import React from "react";
 function PortfolioBlock(props) {
   return (
     <div className="marginTlg flex">
-      <img src={props.image} className="Portfolio-image" alt={props.imageAlt} />
+      <a href={props.href} target="_blank">
+        <img
+          src={props.image}
+          className="Portfolio-image"
+          alt={props.imageAlt}
+        />
+      </a>
       <div className="Portfolio-text">
         <h2 className="Heading marginTz marginBsm">{props.title}</h2>
         <p className="textSmall marginVz">
