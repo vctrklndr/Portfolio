@@ -11,7 +11,7 @@ function PortfolioBlock(props) {
         />
       </a>
       <div className="Portfolio-text">
-        <h2 className="Heading marginTz marginBsm">{props.title}</h2>
+        <h2 className="Heading Heading--h2 marginTz marginBsm">{props.title}</h2>
         <p className="textSmall marginVz">
           {props.description}
           <br />

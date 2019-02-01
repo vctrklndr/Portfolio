@@ -1,5 +1,8 @@
 .Heading {
   font-family: 'Aften Screen Bold';
+  &--h2 {
+    line-height: 1.1rem;
+  }
 }
 
 .Heading--altColor {
