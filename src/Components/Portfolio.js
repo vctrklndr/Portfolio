@@ -5,6 +5,7 @@ import Dashboard from "../Assets/Images/dashboard.jpg";
 import iChores from "../Assets/Images/ichores.png";
 import Mobergs from "../Assets/Images/mobergs_bistro.png";
 import PunkBeer from "../Assets/Images/punk_beer.png";
+import Washi from "../Assets/Images/washi.png";
 
 function Portfolio() {
   return (
@@ -44,6 +45,15 @@ function Portfolio() {
         hashtags="#html #css #sass #js #vanilla"
         href="https://vctrklndr.github.io/JavaScript-to_do/"
         hrefTitle="github.io/JavaScript-to_do/"
+      />
+      <Block 
+        image={Washi}
+        imageAlt="Washi"
+        title="Washi"
+        description="School assignment making a laundry booking system"
+        hashtags="#html #css #less #js #vue"
+        href="https://github.com/vctrklndr/washi"
+        hrefTitle="github.com/vctrklndr/washi"
       />
       <Block 
         image={Mobergs}
