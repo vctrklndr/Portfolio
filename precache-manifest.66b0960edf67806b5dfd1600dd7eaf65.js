@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/blob-1.5cd02dc8.svg"
   },
   {
-    "revision": "47bc204d3566445faa9e1f3d1a0a24df",
-    "url": "/Portfolio/static/media/Aften-Screen-Bold.47bc204d.ttf"
-  },
-  {
     "revision": "c7f41f860339111eafbd2b6426de120d",
     "url": "/Portfolio/static/media/GT-Pressura-Mono-Light.c7f41f86.ttf"
+  },
+  {
+    "revision": "47bc204d3566445faa9e1f3d1a0a24df",
+    "url": "/Portfolio/static/media/Aften-Screen-Bold.47bc204d.ttf"
   },
   {
     "revision": "1bb66f782eef699ae78687c5ad00768a",
