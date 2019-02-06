@@ -2,10 +2,10 @@ import React from "react";
 import Block from "./PortfolioBlock";
 import Musikinstitutet from "../Assets/Images/music-1.png";
 import Dashboard from "../Assets/Images/dashboard.jpg";
-import iChores from "../Assets/Images/ichores.png";
-import Mobergs from "../Assets/Images/mobergs_bistro.png";
 import PunkBeer from "../Assets/Images/punk_beer.png";
+import iChores from "../Assets/Images/ichores.png";
 import Washi from "../Assets/Images/washi.png";
+import Mobergs from "../Assets/Images/mobergs_bistro.png";
 
 function Portfolio() {
   return (
