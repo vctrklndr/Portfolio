@@ -12,24 +12,24 @@ import SectorAlarm from "../Assets/Images/sector_alarm.jpg";
 function Portfolio() {
   return (
     <>
-    <Block
-      image={SectorAlarm}
-      imageAlt="Sector Alarm"
-      title="Sector Alarm"
-      description="Frontend for Sector Alarms new public web"
-      hashtags="#html #nunjucks #fractal #css #less #js #vanilla #jquery"
-      href="https://www.sectoralarm.se"
-      hrefTitle="sectoralarm.se"
-    />
-    <Block
-      image={NickeBorg}
-      imageAlt="Nicke Borg Homeland"
-      title="Nicke Borg Homeland"
-      description="Basic new website for Nicke Borg Homeland"
-      hashtags="#html #css"
-      href="http://www.nickeborg.com"
-      hrefTitle="nickeborg.com"
-    />
+      <Block
+        image={SectorAlarm}
+        imageAlt="Sector Alarm"
+        title="Sector Alarm"
+        description="Frontend for Sector Alarms new public web"
+        hashtags="#html #nunjucks #fractal #css #less #js #vanilla #jquery"
+        href="https://www.sectoralarm.se"
+        hrefTitle="sectoralarm.se"
+      />
+      <Block
+        image={NickeBorg}
+        imageAlt="Nicke Borg Homeland"
+        title="Nicke Borg Homeland"
+        description="Basic new website for Nicke Borg Homeland"
+        hashtags="#html #css"
+        href="http://www.nickeborg.com"
+        hrefTitle="nickeborg.com"
+      />
       <Block
         image={Musikinstitutet}
         imageAlt="iChords"
@@ -48,7 +48,7 @@ function Portfolio() {
         href="https://vctrklndr.github.io/React-Dashboard/"
         hrefTitle="github.io/React-Dashboard/"
       />
-      <Block 
+      <Block
         image={PunkBeer}
         imageAlt="Punk Beer API"
         title="Ajax API"
@@ -57,7 +57,7 @@ function Portfolio() {
         href="https://vctrklndr.github.io/JavaScript-AJAX/"
         hrefTitle="github.io/JavaScript-AJAX/"
       />
-      <Block 
+      <Block
         image={iChores}
         imageAlt="iChores"
         title="Vanilla JS Todo"
@@ -66,7 +66,7 @@ function Portfolio() {
         href="https://vctrklndr.github.io/JavaScript-to_do/"
         hrefTitle="github.io/JavaScript-to_do/"
       />
-      <Block 
+      <Block
         image={Washi}
         imageAlt="Washi"
         title="Washi"
@@ -75,7 +75,7 @@ function Portfolio() {
         href="https://github.com/vctrklndr/washi"
         hrefTitle="github.com/vctrklndr/washi"
       />
-      <Block 
+      <Block
         image={Mobergs}
         imageAlt="Mobergs Bistro"
         title="Mobergs Bistro"
