@@ -5,11 +5,8 @@
   max-width: 450px;
   width: 100%;
   opacity: 0;
-  animation-name: fadeIn;
-  animation-duration: 3s;
-  animation-iteration-count: 1;
-  animation-fill-mode: forwards;
-  animation-delay: 4s;
+  animation: fade-in 1200ms linear both;
+  animation-delay: 3200ms;
   @media screen and (min-width: $bpMedium) {
     margin-left: 15vw;
   }
@@ -79,23 +76,4 @@
   cy: 120;
   r: 30;
   transform-origin: 65px 120px;
-}
-
-@keyframes from0to360 {
-  from{transform:rotate(0);}
-  to{transform:rotate(360deg);}
-}
-
-@keyframes from360to0 {
-  from{transform:rotate(360deg);}
-  to{transform:rotate(0deg);}
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
 }

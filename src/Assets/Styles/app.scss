@@ -1,17 +1,19 @@
 //Common
-@import "Common/fonts";
-@import "Common/variables";
-@import "Common/base";
+@import "Common/Fonts";
+@import "Common/Variables";
+@import "Common/Base";
 
 //Atoms
-@import "Components/Atoms/blob";
-@import "Components/Atoms/heading";
-@import "Components/Atoms/link";
+@import "Components/Atoms/Blob";
+@import "Components/Atoms/Heading";
+@import "Components/Atoms/Link";
 
 // Molecules
-@import "Components/Molecules/portfolio";
+@import "Components/Molecules/Portfolio";
 
 //Utils
-@import "Utils/display";
-@import "Utils/margin";
-@import "Utils/text";
+@import "Utils/Display";
+@import "Utils/Margin";
+@import "Utils/Text";
+
+@import "Common/Keyframes";
