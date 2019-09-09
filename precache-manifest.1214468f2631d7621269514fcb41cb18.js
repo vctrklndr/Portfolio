@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "cc2bd51e0e5b73be07a046e54205ee6b",
-    "url": "/Portfolio/static/media/ichores.cc2bd51e.png"
+    "revision": "42646d808bba1eedb0ff",
+    "url": "/Portfolio/static/css/main.79109404.chunk.css"
   },
   {
-    "revision": "2bbe466bf5684ec6669b",
-    "url": "/Portfolio/static/css/main.49babadd.chunk.css"
+    "revision": "42646d808bba1eedb0ff",
+    "url": "/Portfolio/static/js/main.42646d80.chunk.js"
   },
   {
-    "revision": "06a8b739b3c9c56b7955",
-    "url": "/Portfolio/static/js/1.06a8b739.chunk.js"
+    "revision": "e38b46d0b913960fcf00",
+    "url": "/Portfolio/static/js/1.e38b46d0.chunk.js"
   },
   {
     "revision": "3b96116072eb85f5a3a2",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/punk_beer.ced89b22.png"
   },
   {
-    "revision": "2bbe466bf5684ec6669b",
-    "url": "/Portfolio/static/js/main.2bbe466b.chunk.js"
+    "revision": "cc2bd51e0e5b73be07a046e54205ee6b",
+    "url": "/Portfolio/static/media/ichores.cc2bd51e.png"
   },
   {
     "revision": "4206bfea2f144754a8ab1b13bf2c25ce",
@@ -44,8 +44,12 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/mobergs_bistro.1e679eef.png"
   },
   {
-    "revision": "84693e1ba51359e083410778f8eecef0",
-    "url": "/Portfolio/static/media/laser_racer.84693e1b.png"
+    "revision": "7604b27bcfa9cda9b9206c890c02285c",
+    "url": "/Portfolio/static/media/nicke_borg.7604b27b.jpg"
+  },
+  {
+    "revision": "040139cf12b5dd13ec69f3603a57f370",
+    "url": "/Portfolio/static/media/sector_alarm.040139cf.jpg"
   },
   {
     "revision": "5cd02dc80e088e5c789a205dc1231c3a",
@@ -56,15 +60,15 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/Aften-Screen-Bold.47bc204d.ttf"
   },
   {
-    "revision": "c7f41f860339111eafbd2b6426de120d",
-    "url": "/Portfolio/static/media/GT-Pressura-Mono-Light.c7f41f86.ttf"
-  },
-  {
     "revision": "1bb66f782eef699ae78687c5ad00768a",
     "url": "/Portfolio/static/media/GT-Pressura-Mono-Bold.1bb66f78.ttf"
   },
   {
-    "revision": "ca530fb2761c247167f6fbeb15af713b",
+    "revision": "c7f41f860339111eafbd2b6426de120d",
+    "url": "/Portfolio/static/media/GT-Pressura-Mono-Light.c7f41f86.ttf"
+  },
+  {
+    "revision": "6a71e10319013f5a4e356a76fb70a6b6",
     "url": "/Portfolio/index.html"
   }
 ];
