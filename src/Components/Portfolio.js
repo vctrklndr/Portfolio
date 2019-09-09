@@ -6,10 +6,30 @@ import PunkBeer from "../Assets/Images/punk_beer.png";
 import iChores from "../Assets/Images/ichores.png";
 import Washi from "../Assets/Images/washi.png";
 import Mobergs from "../Assets/Images/mobergs_bistro.png";
+import NickeBorg from "../Assets/Images/nicke_borg.jpg";
+import SectorAlarm from "../Assets/Images/sector_alarm.jpg";
 
 function Portfolio() {
   return (
     <>
+    <Block
+      image={SectorAlarm}
+      imageAlt="Sector Alarm"
+      title="Sector Alarm"
+      description="Frontend for Sector Alarms new public web"
+      hashtags="#html #nunjucks #fractal #css #less #js #vanilla #jquery"
+      href="https://www.sectoralarm.se"
+      hrefTitle="sectoralarm.se"
+    />
+    <Block
+      image={NickeBorg}
+      imageAlt="Nicke Borg Homeland"
+      title="Nicke Borg Homeland"
+      description="Basic new website for Nicke Borg Homeland"
+      hashtags="#html #css"
+      href="http://www.nickeborg.com"
+      hrefTitle="nickeborg.com"
+    />
       <Block
         image={Musikinstitutet}
         imageAlt="iChords"
