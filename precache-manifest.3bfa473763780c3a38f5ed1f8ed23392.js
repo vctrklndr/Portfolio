@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0388676dbaf64ddc63e8",
-    "url": "/Portfolio/static/css/main.79109404.chunk.css"
+    "revision": "2f4a04684b63a05b468b",
+    "url": "/Portfolio/static/css/main.d5d81de2.chunk.css"
   },
   {
-    "revision": "0388676dbaf64ddc63e8",
-    "url": "/Portfolio/static/js/main.0388676d.chunk.js"
+    "revision": "2f4a04684b63a05b468b",
+    "url": "/Portfolio/static/js/main.2f4a0468.chunk.js"
   },
   {
     "revision": "e38b46d0b913960fcf00",
@@ -60,15 +60,15 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/Aften-Screen-Bold.47bc204d.ttf"
   },
   {
-    "revision": "1bb66f782eef699ae78687c5ad00768a",
-    "url": "/Portfolio/static/media/GT-Pressura-Mono-Bold.1bb66f78.ttf"
-  },
-  {
     "revision": "c7f41f860339111eafbd2b6426de120d",
     "url": "/Portfolio/static/media/GT-Pressura-Mono-Light.c7f41f86.ttf"
   },
   {
-    "revision": "5da45215acecca463d950e4e45c3e146",
+    "revision": "1bb66f782eef699ae78687c5ad00768a",
+    "url": "/Portfolio/static/media/GT-Pressura-Mono-Bold.1bb66f78.ttf"
+  },
+  {
+    "revision": "4d53ffec10ca76d9302577dd211c1d97",
     "url": "/Portfolio/index.html"
   }
 ];
