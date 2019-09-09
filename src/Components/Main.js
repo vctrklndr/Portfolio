@@ -4,7 +4,7 @@ import Blobber from "../Assets/Images/blob-1.svg";
 
 function Main() {
   return (
-    <main className="marginBxlg">
+    <main className="Portfolio marginBxlg">
       <Portfolio />
       <img src={Blobber} className="Blob" alt="Blob" />
     </main>
