@@ -8,7 +8,7 @@ class Header extends React.Component {
       navigator.userAgent
         .toString()
         .toLowerCase()
-        .indexOf("chrome") != -1;
+        .indexOf("chrome") !== -1;
     if (!CHROME) {
       return <Blob />;
     } else {

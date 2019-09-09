@@ -3,7 +3,7 @@ import React from "react";
 function PortfolioBlock(props) {
   return (
     <div className="Portfolio-block marginTlg flex">
-      <a href={props.href} target="_blank">
+      <a href={props.href} target="_blank" rel="noopener noreferrer">
         <img
           src={props.image}
           className="Portfolio-image"
@@ -17,7 +17,7 @@ function PortfolioBlock(props) {
           <br />
           <span className="textSmall textYellow">{props.hashtags}</span>
           <br />
-          <a href={props.href} target="_blank" className="Link">
+          <a className="Link" href={props.href} target="_blank" rel="noopener noreferrer">
             <span className="Link--underline">{props.hrefTitle}</span>
           </a>
         </p>
