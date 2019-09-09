@@ -1,7 +1,7 @@
 {
-  "main.css": "/Portfolio/static/css/main.d5d81de2.chunk.css",
-  "main.js": "/Portfolio/static/js/main.2f4a0468.chunk.js",
-  "main.js.map": "/Portfolio/static/js/main.2f4a0468.chunk.js.map",
+  "main.css": "/Portfolio/static/css/main.91a223e9.chunk.css",
+  "main.js": "/Portfolio/static/js/main.d0a54d6d.chunk.js",
+  "main.js.map": "/Portfolio/static/js/main.d0a54d6d.chunk.js.map",
   "static/js/1.e38b46d0.chunk.js": "/Portfolio/static/js/1.e38b46d0.chunk.js",
   "static/js/1.e38b46d0.chunk.js.map": "/Portfolio/static/js/1.e38b46d0.chunk.js.map",
   "runtime~main.js": "/Portfolio/static/js/runtime~main.3b961160.js",
@@ -16,9 +16,9 @@
   "static/media/nicke_borg.jpg": "/Portfolio/static/media/nicke_borg.7604b27b.jpg",
   "static/media/sector_alarm.jpg": "/Portfolio/static/media/sector_alarm.040139cf.jpg",
   "static/media/blob-1.svg": "/Portfolio/static/media/blob-1.5cd02dc8.svg",
-  "static/media/app.scss": "/Portfolio/static/media/GT-Pressura-Mono-Bold.1bb66f78.ttf",
-  "static/css/main.d5d81de2.chunk.css.map": "/Portfolio/static/css/main.d5d81de2.chunk.css.map",
+  "static/media/app.scss": "/Portfolio/static/media/GT-Pressura-Mono-Light.c7f41f86.ttf",
+  "static/css/main.91a223e9.chunk.css.map": "/Portfolio/static/css/main.91a223e9.chunk.css.map",
   "index.html": "/Portfolio/index.html",
-  "precache-manifest.3bfa473763780c3a38f5ed1f8ed23392.js": "/Portfolio/precache-manifest.3bfa473763780c3a38f5ed1f8ed23392.js",
+  "precache-manifest.d5bebf5438db007f7b1632b6bc0264ed.js": "/Portfolio/precache-manifest.d5bebf5438db007f7b1632b6bc0264ed.js",
   "service-worker.js": "/Portfolio/service-worker.js"
 }
