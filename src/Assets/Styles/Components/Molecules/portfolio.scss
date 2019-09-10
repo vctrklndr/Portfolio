@@ -1,6 +1,32 @@
 .Portfolio {
   &-block {
     opacity: 0;
+    animation: fadeAndSlideIn 500ms linear both;
+    &:nth-child(1) {
+      opacity: 1;
+      animation: none;
+    }
+    &:nth-child(2) {
+      animation-delay: 400ms;
+    }
+    &:nth-child(3) {
+      animation-delay: 800ms;
+    }
+    &:nth-child(4) {
+      animation-delay: 1200ms;
+    }
+    &:nth-child(5) {
+      animation-delay: 1600ms;
+    }
+    &:nth-child(6) {
+      animation-delay: 2000ms;
+    }
+    &:nth-child(7) {
+      animation-delay: 2400ms;
+    }
+    &:nth-child(8) {
+      animation-delay: 2800ms;
+    }
   }
   &-image {
     width: 120px;
@@ -25,34 +51,5 @@
   &-hashtags {
     color: $yellow;
     text-shadow: 1px 1px 1px $darkGrey;
-  }
-}
-
-.Portfolio .Portfolio-block {
-  animation: fadeAndSlideIn 500ms linear both;
-  &:nth-child(1) {
-    opacity: 1;
-    animation: none;
-  }
-  &:nth-child(2) {
-    animation-delay: 400ms;
-  }
-  &:nth-child(3) {
-    animation-delay: 800ms;
-  }
-  &:nth-child(4) {
-    animation-delay: 1200ms;
-  }
-  &:nth-child(5) {
-    animation-delay: 1600ms;
-  }
-  &:nth-child(6) {
-    animation-delay: 2000ms;
-  }
-  &:nth-child(7) {
-    animation-delay: 2400ms;
-  }
-  &:nth-child(8) {
-    animation-delay: 2800ms;
   }
 }

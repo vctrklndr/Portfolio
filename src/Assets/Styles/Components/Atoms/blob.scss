@@ -10,20 +10,20 @@
   @media screen and (min-width: $bpMedium) {
     margin-left: 15vw;
   }
+  &-fallback {
+    margin-top: 5px;
+    max-width: 195px;
+  }
+  &-container {
+    width: 290px;
+    height: 235px;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+  }
 }
 
-.Blob-fallback {
-  margin-top: 5px;
-  max-width: 195px;
-}
-
-.Blob-container {
-  width: 290px;
-  height: 235px;
-  position: absolute;
-  z-index: -1;
-  top: 0;
-}
+// Blob animation:
 
 #blob,
 #blob circle {
