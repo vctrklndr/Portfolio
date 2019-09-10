@@ -1,16 +1,16 @@
 .Link {
   text-decoration: none;
   &--underline {
-    color: #808080;
+    color: $grey;
     display: inline-block;
     &:hover {
-      color: #d3d3d3;
+      color: $lightGrey;
       transition: color 250ms ease-in-out;
     }
     &:after {
       display: block;
       content: '';
-      border-bottom: 1px #d3d3d3 solid;  
+      border-bottom: 1px $lightGrey solid;  
       transform: scaleX(0);  
       transition: transform 250ms ease-in-out;
     }

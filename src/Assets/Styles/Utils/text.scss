@@ -1,11 +1,8 @@
-.textSmall {
-  font-size: .8rem;
-}
-
 .textGrey {
-  color: #808080;
+  color: $grey;
 }
 
-.textYellow {
-  color: $yellow;
+
+.textShadow {
+  text-shadow: 1px 1px 1px $darkGrey;
 }

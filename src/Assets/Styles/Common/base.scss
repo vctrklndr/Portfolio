@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  background-color: #272727;
-  color: #fff;
+  background-color: $darkGrey;
+  color: $white;
   font-family: 'GT Pressura Mono Light';
   font-weight: lighter;
   letter-spacing: .1rem;
@@ -13,6 +13,11 @@ strong {
   text-transform: uppercase;
 }
 
+ul {
+  padding: 0;
+  list-style: none;
+}
+
 .App {
   max-width: 1020px;
   margin: 0 auto;
@@ -21,5 +26,5 @@ strong {
 
 ::selection {
   background-color: $pink;
-  color: #fff;
+  color: $white;
 }

@@ -11,16 +11,23 @@ function PortfolioBlock(props) {
         />
       </a>
       <div className="Portfolio-text">
-        <h2 className="Heading Heading--h2 marginTz marginBsm">{props.title}</h2>
-        <p className="textSmall marginVz">
-          {props.description}
-          <br />
-          <span className="textSmall textYellow">{props.hashtags}</span>
-          <br />
-          <a className="Link" href={props.href} target="_blank" rel="noopener noreferrer">
-            <span className="Link--underline">{props.hrefTitle}</span>
-          </a>
-        </p>
+        <h2 className="Heading Heading--h2 marginTz marginBsm">
+          {props.title}
+        </h2>
+        <ul className="marginVz">
+          <li className="textShadow">{props.description}</li>
+          <li className="Portfolio-hashtags">{props.hashtags}</li>
+          <li>
+            <a
+              className="Link"
+              href={props.href}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <span className="Link--underline">{props.hrefTitle}</span>
+            </a>
+          </li>
+        </ul>
       </div>
     </div>
   );
