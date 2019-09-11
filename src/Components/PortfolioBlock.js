@@ -2,7 +2,7 @@ import React from "react";
 
 function PortfolioBlock(props) {
   return (
-    <div className="Portfolio-block marginTlg flex">
+    <div className="Portfolio-block marginTlg">
       <a href={props.href} target="_blank" rel="noopener noreferrer">
         <img
           src={props.image}

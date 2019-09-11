@@ -2,6 +2,9 @@
   &-block {
     opacity: 0;
     animation: fadeAndSlideIn 500ms linear both;
+    @media screen and (min-width: $bpMedium) {
+      display: flex;
+    }
     &:nth-child(1) {
       opacity: 1;
       animation: none;
@@ -30,12 +33,15 @@
   }
   &-image {
     margin-right: 20px;
-    width: 120px;
-    height: 120px;
-    object-fit: cover;
     border-radius: 2px;
+    width: 100%;
     transition: all 600ms;
-    @media screen and (min-width: $bpLarge) {
+    margin-bottom: 5px;
+    @media screen and (min-width: $bpMedium) {
+      margin-bottom: 0;
+      object-fit: cover;
+      width: 120px;
+      height: 120px;
       &:hover {
         margin-left: -65px;
         width: 260px;
@@ -48,7 +54,7 @@
   }
   &-text {
     font-size: 0.8rem;
-    @media screen and (min-width: $bpLarge) {
+    @media screen and (min-width: $bpMedium) {
       min-width: 230px;
     }
   }
