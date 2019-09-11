@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7954f2344044ff79d42e",
+    "revision": "011ef54d5732265cb084",
     "url": "/Portfolio/static/css/main.511be88e.chunk.css"
   },
   {
-    "revision": "7954f2344044ff79d42e",
-    "url": "/Portfolio/static/js/main.7954f234.chunk.js"
+    "revision": "011ef54d5732265cb084",
+    "url": "/Portfolio/static/js/main.011ef54d.chunk.js"
   },
   {
     "revision": "e38b46d0b913960fcf00",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/music-1.a4be5ea1.png"
   },
   {
-    "revision": "0b022f03e183253edea3368fa9d032a1",
-    "url": "/Portfolio/static/media/dashboard.0b022f03.jpg"
+    "revision": "1ff5d97626f48aa67669c71e95038298",
+    "url": "/Portfolio/static/media/dashboard.1ff5d976.jpg"
   },
   {
     "revision": "ced89b22c619411c52e7e1cc8c03f8b5",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/GT-Pressura-Mono-Light.c7f41f86.ttf"
   },
   {
-    "revision": "987023e0fb29c4fd11806bd62979323e",
+    "revision": "20c8b96700d081202b8434d7048ce4bb",
     "url": "/Portfolio/index.html"
   }
 ];
