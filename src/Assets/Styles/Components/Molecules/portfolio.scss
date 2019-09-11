@@ -47,8 +47,10 @@
     }
   }
   &-text {
-    min-width: 230px;
     font-size: 0.8rem;
+    @media screen and (min-width: $bpLarge) {
+      min-width: 230px;
+    }
   }
   &-hashtags {
     color: $yellow;
