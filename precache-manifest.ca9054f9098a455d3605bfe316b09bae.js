@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "011ef54d5732265cb084",
-    "url": "/Portfolio/static/css/main.511be88e.chunk.css"
+    "revision": "41259226ebd96c74c116",
+    "url": "/Portfolio/static/css/main.e26fd4c3.chunk.css"
   },
   {
-    "revision": "011ef54d5732265cb084",
-    "url": "/Portfolio/static/js/main.011ef54d.chunk.js"
+    "revision": "41259226ebd96c74c116",
+    "url": "/Portfolio/static/js/main.41259226.chunk.js"
   },
   {
     "revision": "e38b46d0b913960fcf00",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/GT-Pressura-Mono-Light.c7f41f86.ttf"
   },
   {
-    "revision": "20c8b96700d081202b8434d7048ce4bb",
+    "revision": "f51ccaa464d1a389cb13cb71c41c55e9",
     "url": "/Portfolio/index.html"
   }
 ];
