@@ -8,6 +8,7 @@ import Washi from "../Assets/Images/washi.png";
 import Mobergs from "../Assets/Images/mobergs_bistro.png";
 import NickeBorg from "../Assets/Images/nicke_borg.jpg";
 import SectorAlarm from "../Assets/Images/sector_alarm.jpg";
+import Beamb from "../Assets/Images/beambox.jpg";
 
 function Portfolio() {
   return (
@@ -20,6 +21,15 @@ function Portfolio() {
         hashtags="#html #nunjucks #fractal #css #less #js #vanilla #jquery"
         href="https://www.sectoralarm.se"
         hrefTitle="sectoralarm.se"
+      />
+      <Block
+        image={Beamb}
+        imageAlt="Beambox"
+        title="Beambox"
+        description="Frontend for Beambox web"
+        hashtags="#html #razor #css #less"
+        href="https://www.beambox.se"
+        hrefTitle="beambox.se.se"
       />
       <Block
         image={NickeBorg}
