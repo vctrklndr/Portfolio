@@ -8,7 +8,7 @@ import Washi from "../Assets/Images/washi.png";
 import Mobergs from "../Assets/Images/mobergs_bistro.png";
 import NickeBorg from "../Assets/Images/nicke_borg.jpg";
 import SectorAlarm from "../Assets/Images/sector_alarm.jpg";
-import Beamb from "../Assets/Images/beambox.jpg";
+import Beambox from "../Assets/Images/beambox.jpg";
 
 function Portfolio() {
   return (
@@ -23,7 +23,7 @@ function Portfolio() {
         hrefTitle="sectoralarm.se"
       />
       <Block
-        image={Beamb}
+        image={Beambox}
         imageAlt="Beambox"
         title="Beambox"
         description="Frontend for Beambox web"
