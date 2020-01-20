@@ -20,8 +20,8 @@ function Portfolio() {
         title="Verbal"
         description="Frontend for Verbal web"
         hashtags="#html #php #cssl #sass #js #jquery #wordpress"
-        href="https://www.sectoralarm.se"
-        hrefTitle="sectoralarm.se"
+        href="https://www.verbal.se"
+        hrefTitle="verbal.se"
       />
       <Block
         image={SectorAlarm}
