@@ -9,10 +9,20 @@ import Mobergs from "../Assets/Images/mobergs_bistro.png";
 import NickeBorg from "../Assets/Images/nicke_borg.jpg";
 import SectorAlarm from "../Assets/Images/sector_alarm.jpg";
 import Beambox from "../Assets/Images/beambox.jpg";
+import Verbal from "../Assets/Images/verbal.jpg";
 
 function Portfolio() {
   return (
     <>
+      <Block
+        image={Verbal}
+        imageAlt="Verbal"
+        title="Verbal"
+        description="Frontend for Verbal web"
+        hashtags="#html #php #cssl #sass #js #jquery #wordpress"
+        href="https://www.sectoralarm.se"
+        hrefTitle="sectoralarm.se"
+      />
       <Block
         image={SectorAlarm}
         imageAlt="Sector Alarm"
@@ -29,7 +39,7 @@ function Portfolio() {
         description="Frontend for Beambox web"
         hashtags="#html #razor #css #less"
         href="https://www.beambox.se"
-        hrefTitle="beambox.se.se"
+        hrefTitle="beambox.se"
       />
       <Block
         image={NickeBorg}
