@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "4206bfea2f144754a8ab1b13bf2c25ce",
-    "url": "/Portfolio/static/media/washi.4206bfea.png"
+    "revision": "bf1e4fec218b4f5fa3f3e95dc1caad2a",
+    "url": "/Portfolio/static/media/mobergs_bistro.bf1e4fec.png"
   },
   {
-    "revision": "8e441ffd6ad3a7603e30",
-    "url": "/Portfolio/static/css/main.e1a97eb1.chunk.css"
+    "revision": "05f158c4cb711352af8e",
+    "url": "/Portfolio/static/css/main.8406c8d6.chunk.css"
   },
   {
-    "revision": "d1632f24d1951dfb3706",
-    "url": "/Portfolio/static/js/1.d1632f24.chunk.js"
+    "revision": "4bae74f7dd9438dbb666",
+    "url": "/Portfolio/static/js/1.4bae74f7.chunk.js"
   },
   {
     "revision": "3b96116072eb85f5a3a2",
@@ -20,28 +20,28 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/blob-fallback.d9314368.svg"
   },
   {
-    "revision": "06f00b077b00ce34a1b78498f136a564",
-    "url": "/Portfolio/static/media/music-1.06f00b07.png"
+    "revision": "a739ac64d94869070abd5b7267d2fdea",
+    "url": "/Portfolio/static/media/music-1.a739ac64.png"
   },
   {
     "revision": "4912cf5cac1f660fc93a6a95b0cb99c9",
     "url": "/Portfolio/static/media/dashboard.4912cf5c.jpg"
   },
   {
-    "revision": "56c21b72d2bb3ee0e46504ae28e5fdb9",
-    "url": "/Portfolio/static/media/punk_beer.56c21b72.png"
+    "revision": "782aa175f23ad7afcfb4536789bd0a0c",
+    "url": "/Portfolio/static/media/punk_beer.782aa175.png"
   },
   {
-    "revision": "5ce2e92be80b0f502989159660227488",
-    "url": "/Portfolio/static/media/ichores.5ce2e92b.png"
+    "revision": "e4026000a5ff99919a5d39b2a834ae47",
+    "url": "/Portfolio/static/media/ichores.e4026000.png"
   },
   {
-    "revision": "8e441ffd6ad3a7603e30",
-    "url": "/Portfolio/static/js/main.8e441ffd.chunk.js"
+    "revision": "2c7f86cd3344c4b15717f633606e9883",
+    "url": "/Portfolio/static/media/washi.2c7f86cd.png"
   },
   {
-    "revision": "bf1e4fec218b4f5fa3f3e95dc1caad2a",
-    "url": "/Portfolio/static/media/mobergs_bistro.bf1e4fec.png"
+    "revision": "05f158c4cb711352af8e",
+    "url": "/Portfolio/static/js/main.05f158c4.chunk.js"
   },
   {
     "revision": "10214b424ec04127cd9b2e1e22130816",
@@ -54,6 +54,10 @@ self.__precacheManifest = [
   {
     "revision": "9651f6029ed7ff98718dca2dd8130b75",
     "url": "/Portfolio/static/media/beambox.9651f602.jpg"
+  },
+  {
+    "revision": "0fd0cd90eae01671ec4f4ad3158048e5",
+    "url": "/Portfolio/static/media/verbal.0fd0cd90.jpg"
   },
   {
     "revision": "b9790fa299ef04b284335cd13c2e9fc0",
@@ -72,7 +76,7 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/GT-Pressura-Mono-Light.c7f41f86.ttf"
   },
   {
-    "revision": "111c26599b4de43bea1e71dc5fbc0ea8",
+    "revision": "219e4f7c3b709d0fce5e7b32a3dcc0da",
     "url": "/Portfolio/index.html"
   }
 ];
